@@ -1,9 +1,9 @@
-package output
+package go
 
 import(
   "fmt"
 }
 
-func Say(words string) {
+func Output(words string) {
   fmt.Println(words)
 }
