@@ -1,2 +1,2 @@
-# go
+# golearn
 golang learning
