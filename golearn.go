@@ -1,9 +1,9 @@
 package golearn
 
 import(
-  "fmt"
-}
+    "fmt"
+)
 
-func Output(words string) {
-  fmt.Println(words)
+func Output(txt string) {
+    fmt.Println(txt)
 }
